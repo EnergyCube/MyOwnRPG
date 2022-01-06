@@ -1,7 +1,7 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=EnergyCube.MyOwnRPG)
-[![GitHub stars](https://img.shields.io/github/stars/EnergyCube/MyOwnRPG)](https://github.com/EnergyCube/MySoloRPG/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/EnergyCube/MyOwnRPG)](https://github.com/EnergyCube/MySoloRPG/network)
-[![EnergyCube Tek Lib C](https://img.shields.io/badge/Energy%20Tek%20Lib%20C-v3.5%20(Edited%20for%20RPG)-blue)](https://github.com/EnergyCube/MySoloRPG)
+[![GitHub stars](https://img.shields.io/github/stars/EnergyCube/MyOwnRPG)](https://github.com/EnergyCube/MyOwnRPG/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/EnergyCube/MyOwnRPG)](https://github.com/EnergyCube/MyOwnRPG/network)
+[![EnergyCube Tek Lib C](https://img.shields.io/badge/Energy%20Tek%20Lib%20C-v3.5%20(Edited%20for%20RPG)-blue)](https://github.com/EnergyCube/MyOwnRPG)
 # 🎮 MyRPG (aka. MyOwnRPG)
 
 ## Goal
@@ -46,8 +46,8 @@ make
 No one is going to do it, but you can create pull requests.
 
 ## Sample
-![Inventory Menu](https://raw.githubusercontent.com/EnergyCube/MySoloRPG/main/sample/inv_menu.gif)
-![Main Menu](https://raw.githubusercontent.com/EnergyCube/MySoloRPG/main/sample/main_menu.gif)
+![Inventory Menu](https://raw.githubusercontent.com/EnergyCube/MyOwnRPG/main/sample/inv_menu.gif)
+![Main Menu](https://raw.githubusercontent.com/EnergyCube/MyOwnRPG/main/sample/main_menu.gif)
 
 ## Project Restrictions
 Here is the full list of authorized functions.\
