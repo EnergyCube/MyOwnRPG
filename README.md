@@ -2,7 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/EnergyCube/MySoloRPG)](https://github.com/EnergyCube/MySoloRPG/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/EnergyCube/MySoloRPG)](https://github.com/EnergyCube/MySoloRPG/network)
 [![EnergyCube Tek Lib C](https://img.shields.io/badge/Energy%20Tek%20Lib%20C-v3.5%20(Edited%20for%20RPG)-blue)](https://github.com/EnergyCube/MySoloRPG)
-# 🎮 MyRPG (aka. MySolorRPG)
+# 🎮 MyRPG (aka. MySoloRPG)
 
 ## Goal
 Using the knowledge accumulated during the first year in graphic programming, create a complete RPG that we would be proud of.\
